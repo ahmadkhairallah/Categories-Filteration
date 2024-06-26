@@ -16,7 +16,7 @@ function Home() {
         { category: 'Web', text: 'Web' },
         { category: 'Graphic', text: 'Graphic' },
         { category: 'Marketing', text: 'Marketing' },
-        { category: 'Marketing', text: 'Marketing' },
+        { category: 'Graphic', text: 'Graphic' },
         { category: 'Web', text: 'Web' },
         { category: 'Graphic', text: 'Graphic' }
     ];
